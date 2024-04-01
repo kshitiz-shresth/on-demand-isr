@@ -41,7 +41,7 @@ Navigate to the trigger page (`/trigger-isr`) to access the "Trigger ISR" button
 
 ## Automatic Revalidation
 
-The home page will automatically revalidate every 60 seconds (1 minute) after it is first accessed. This is the default revalidate time for static pages in Next.js.
+The home page will automatically revalidate every 60 minutes (1 hour) after it is first accessed. This is the default revalidate time for static pages in Next.js.
 
 ## Manual Revalidation
 
