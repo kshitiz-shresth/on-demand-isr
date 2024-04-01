@@ -24,6 +24,6 @@ export const getStaticProps: GetStaticProps<HomeProps> = async () => {
         props: {
             currentDateTime,
         },
-        revalidate: 60000, // In seconds
+        revalidate: 3600, // In seconds
     };
 };
