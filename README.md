@@ -46,3 +46,8 @@ The home page will automatically revalidate every 60 seconds (1 minute) after it
 ## Manual Revalidation
 
 You can trigger revalidation manually by clicking the "Trigger ISR" button on the trigger page (`/trigger-isr`).
+
+## Note
+
+This demo project uses a simple example of displaying the current date and time. In a real-world project, you can replace this with dynamic data from a database or external API that needs to be updated and reflected on the home page.
+
